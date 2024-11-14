@@ -12,8 +12,15 @@ python cleaning_sim_GUI_r2.py EASY 4
 
 ## Study session:
 Each study session is characterized by two factors: math level and study condition.
+
 The math levels are: EASY, MEDIUM, HARD.
+
 The study conditions are:
+- 0: LE
+- 1: LE+F
+- 2: HE
+- 3: HE+F
+- 4: Practice
 
 
 ## Bibliography
