@@ -7,6 +7,7 @@ Chang, M. L., Pope, Z., Short, E. S., & Thomaz, A. L. (2020, August). Defining f
 # Bibliography
 If you find this repository is useful in your research, please cite the paper:
 
+
 @inproceedings{chang2020defining,
   title={Defining fairness in human-robot teams},
   author={Chang, Mai Lee and Pope, Zachary and Short, Elaine Schaertl and Thomaz, Andrea Lockerd},
