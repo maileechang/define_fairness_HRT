@@ -26,6 +26,7 @@ The study conditions are:
 * 2: Fluency-Absent & Effort-Present
 * 3: Fluency-Present & Effort-Present
 
+For example, the study condition with Fluency-Present & Effort-Present and math level medium is:
 ```
 python cleaning_sim_GUI_r2.py MEDIUM 3
 ```
