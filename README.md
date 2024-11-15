@@ -2,10 +2,13 @@
 
 This respository contains code for the following paper:
 
-Chang, M. L., Pope, Z., Short, E. S., & Thomaz, A. L. (2020, August). Defining fairness in human-robot teams. In 2020 29th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN) (pp. 1251-1258). IEEE.
+[Chang, M. L., Pope, Z., Short, E. S., & Thomaz, A. L. (2020, August). Defining fairness in human-robot teams. In 2020 29th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN) (pp. 1251-1258). IEEE.]
+([https://pages.github.com/](https://ieeexplore.ieee.org/abstract/document/9223594))
 
 ## Start robot arm:
+```
 python mdp_arm_controller.py
+```
 
 ## Practice session:
 ```
@@ -24,8 +27,9 @@ The study conditions are:
 * 2: Fluency-Absent & Effort-Present
 * 3: Fluency-Present & Effort-Present
 
-Code:
+```
 python cleaning_sim_GUI_r2.py MEDIUM 3
+```
 
 ## Bibliography
 If you find this repository is useful in your research, please cite the paper:
