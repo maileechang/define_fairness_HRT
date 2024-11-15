@@ -8,7 +8,9 @@ Chang, M. L., Pope, Z., Short, E. S., & Thomaz, A. L. (2020, August). Defining f
 python mdp_arm_controller.py
 
 ## Practice session:
+```
 python cleaning_sim_GUI_r2.py EASY 4
+```
 
 ## Study session:
 Each study session is characterized by two factors: math level and study condition.
