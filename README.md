@@ -17,10 +17,10 @@ The math levels are: EASY, MEDIUM, HARD. Each participant's math level is determ
 
 The study conditions are:
 
-*0: Fluency-Absent & Effort-Absent
-*1: Fluency-Present & Effort-Absent
-*2: Fluency-Absent & Effort-Present
-*3: Fluency-Present & Effort-Present
+* 0: Fluency-Absent & Effort-Absent
+* 1: Fluency-Present & Effort-Absent
+* 2: Fluency-Absent & Effort-Present
+* 3: Fluency-Present & Effort-Present
 
 Code:
 python cleaning_sim_GUI_r2.py MEDIUM 3
