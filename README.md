@@ -36,7 +36,7 @@ python cleaning_sim_GUI_r2.py MEDIUM 3
 
 ## Bibliography
 If you find this repository is useful in your research, please cite the paper:
-
+```
 @inproceedings{chang2020defining,
   title={Defining fairness in human-robot teams},
   author={Chang, Mai Lee and Pope, Zachary and Short, Elaine Schaertl and Thomaz, Andrea Lockerd},
@@ -45,3 +45,4 @@ If you find this repository is useful in your research, please cite the paper:
   year={2020},
   organization={IEEE}
 }
+```
