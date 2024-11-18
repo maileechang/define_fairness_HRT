@@ -12,7 +12,7 @@ This respository contains code for the following paper:
 python mdp_arm_controller.py
 ```
 
-### Run practice session
+### Run practice session:
 ```
 python cleaning_sim_GUI_r2.py EASY 4
 ```
