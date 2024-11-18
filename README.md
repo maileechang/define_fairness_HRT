@@ -9,12 +9,13 @@ This respository contains code for the following paper:
 python mdp_arm_controller.py
 ```
 
-## Practice session:
+## Instructions:
+### Run practice session
 ```
 python cleaning_sim_GUI_r2.py EASY 4
 ```
 
-## Study session:
+### Run study session:
 Each study session is characterized by two factors: math level and study condition.
 
 The math levels are: EASY, MEDIUM, HARD. Each participant's math level is determined from the practice session.
