@@ -34,8 +34,8 @@ For example, the study condition with Fluency-Present & Effort-Present and math 
 python cleaning_sim_GUI_r2.py MEDIUM 3
 ```
 
-### Notes:
-Due to IRB restrictions, we 
+## Note:
+Due to IRB restrictions, we are not able to share our data. 
 
 ## Citation
 If you find this repository is useful in your research, please cite the paper:
