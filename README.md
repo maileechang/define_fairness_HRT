@@ -4,12 +4,14 @@ This respository contains code for the following paper:
 
 [Chang, M. L., Pope, Z., Short, E. S., & Thomaz, A. L. (2020, August). Defining fairness in human-robot teams. In 2020 29th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN) (pp. 1251-1258). IEEE.](https://ieeexplore.ieee.org/abstract/document/9223594)
 
-## Start robot arm:
+
+## Instructions:
+
+### Start robot arm:
 ```
 python mdp_arm_controller.py
 ```
 
-## Instructions:
 ### Run practice session
 ```
 python cleaning_sim_GUI_r2.py EASY 4
